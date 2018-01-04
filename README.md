@@ -1,3 +1,3 @@
 # Pizza-Palace
 
-![alt text](screenshots/filename.png "Description goes here")
+![alt text](GUI functionality.pdf "Description goes here")
