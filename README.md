@@ -16,3 +16,5 @@ The swing library is outed, unit tests are hell.
 <img src="1.png" alt="some text"  width="3000" height="3000">
 
 ![screenshots](1.png)
+![screenshots](2.png)
+![screenshots](3.png)
